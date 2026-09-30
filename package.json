@@ -1,0 +1,7 @@
+{
+  "name": "learnpidia-reward-user-coins",
+  "version": "1.0.0",
+  "description": "Internal server function for awarding Learnpidia coins.",
+  "main": "index.js",
+  "type": "commonjs"
+}
